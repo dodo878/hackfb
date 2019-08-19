@@ -37,15 +37,15 @@ def banner():
     runntxt(GL+"   welcome to dodo878 tools ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   HACK FB METODE BRUTE FORCE  ••••••. |"
+    print GL+"  |••••••   HACK FB METODE BRUTE FORCE    ••••••|"
     print GG+"  √=============================================√"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |         Kalo Ga Berhasil Derita loo         |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |     Tools From https:github.com/dodo878/    |"
+    print GL+"  | Tools From https://github.com/dodo878/hackfb|"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |••••••   Jangan Buat Kejahatan Ya!!!!! ••••••|"
+    print GL+"  |••••••  Jangan Buat Kejahatan Ya!!!!!  ••••••|"
     print GG+"  √=============================================√"
  
 banner()
