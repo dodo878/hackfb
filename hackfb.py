@@ -1,7 +1,6 @@
 ﻿#!usr
 # -*- coding: UTF-8 -*-
-# Mod by: iqbalz noobs
-# team: life of programmer
+# Mod by: d0d0878
 
 
 import os
@@ -35,25 +34,23 @@ def runntxt(s):
 
 def banner():
     os.system('clear')
-    runntxt(GL+"   Mr.Satan Gans And Lu Semua Buriq ")
+    runntxt(GL+"   welcome to dodo878 tools ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   HACK FB METODE BRUTE FORCE  ••••••. |"
     print GG+"  √=============================================√"
-    print WW+"  |             Mr.Satan Gans Tq .              |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |       Kalo Ga Berhasil Tandanya Lu Buriq    |"
-    print Y+"  |             INSTAGRAM: shysw66              |"
+    print WW+"  |         Kalo Ga Berhasil Derita loo         |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |    Toolss From www.github/IqbalZNoobs/      |"
+    print GL+"  |     Tools From https:github.com/dodo878/    |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |••••••   Jangan Buat Kejahatan Ya Babi ••••••|"
+    print GL+"  |••••••   Jangan Buat Kejahatan Ya!!!!! ••••••|"
     print GG+"  √=============================================√"
  
 banner()
 
-print wd+"         Woy Bangsad Jangan Sampe Gagal "
+print wd+"         Woyyy , Jangan Sampe Gagal !!! "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -72,13 +69,13 @@ def pil():
                     print wd+"Keluar dari program..."
                     sys.exit()
                 else:
-                    print RR+"Pilih yang bener cuk..."
+                    print RR+"Pilih yang bener..."
                     pil()
 
 def edit_wordlist():
 
         print GG+" "
-        ed = str(raw_input("[?] Edit wordlist cuk.? \033[96;1m[y/n]: "))
+        ed = str(raw_input("[?] Edit wordlist..? \033[96;1m[y/n]: "))
         if ed == 'y' or ed == 'Y':
                 os.system('nano '+password_list)
                 pil()
@@ -87,7 +84,7 @@ def edit_wordlist():
                 sys.exit()
 
         else:
-                print RR+"Pilih yg bener cuk..."
+                print RR+"Pilih yg bener..."
                 edit_wordlist()
 
 def main():
@@ -166,8 +163,7 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` 
                                                          
-Mr.Satan Gans
-Special Thanks For www.github.com/IqbalZNoobs/
+Special Thanks For www.github.com/dodo878/
       """
 
          print lop
