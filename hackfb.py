@@ -34,7 +34,7 @@ def runntxt(s):
 
 def banner():
     os.system('clear')
-    runntxt(GL+"   welcome to dodo878 tools ")
+    runntxt(GL+"          welcome to dodo878 tools ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   HACK FB METODE BRUTE FORCE    ••••••|"
